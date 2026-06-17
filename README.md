@@ -230,24 +230,6 @@ Telnet transmits data over **standard TCP/IP sockets**, which means it works tra
 
 ---
 
-## Upload to GitHub
-
-```bash
-cd telnet-wireless-java
-
-# Initialize git
-git init
-git add .
-git commit -m "Initial commit: Java Telnet RFC 854 implementation"
-
-# Create a repo on GitHub, then:
-git remote add origin https://github.com/<your-username>/telnet-wireless-java.git
-git branch -M main
-git push -u origin main
-```
-
----
-
 ## Protocol Reference
 
 | RFC | Topic |
