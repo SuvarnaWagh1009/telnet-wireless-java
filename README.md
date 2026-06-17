@@ -212,6 +212,17 @@ Expected output:
 
 ---
 
+**Supported Snapshots:**
+<img width="618" height="611" alt="image" src="https://github.com/user-attachments/assets/d85136a6-c72e-4d4b-b6f5-f18cc54d8f81" />
+
+<img width="913" height="738" alt="image" src="https://github.com/user-attachments/assets/32b800a2-f8c9-4b83-90da-eed78d2db99d" />
+
+<img width="900" height="769" alt="image" src="https://github.com/user-attachments/assets/0c07ada8-6174-4176-b345-04aacf3dd8bd" />
+
+<img width="936" height="731" alt="image" src="https://github.com/user-attachments/assets/7ff78bd2-265b-43a4-87dd-e6e53d29ea54" />
+
+---
+
 ## How Wireless Works
 
 Telnet transmits data over **standard TCP/IP sockets**, which means it works transparently over:
